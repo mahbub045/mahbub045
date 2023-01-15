@@ -2,7 +2,7 @@
 
 <p align="justify">Being a software engineer, I want to advance to the position of software architect. Learning new technologies and approaches that will keep me current and advance my profession is something I am passionate about.</p>
 
-### 🔭 Have a look on my [portfolio](https://mahbub099.github.io/html).
+### 🔭 Have a look on my [portfolio](https://mahbub099.github.io/aboutme).
 
 
 ## ⚡ Tech Stack
