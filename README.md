@@ -2,7 +2,7 @@
 
 <p align="justify">Being a software engineer, I want to advance to the position of software architect. Learning new technologies and approaches that will keep me current and advance my profession is something I am passionate about.</p>
 
-### 🔭 Have a look on my [portfolio](https://mahbub099.github.io/aboutme).
+### 🔭 Have a look on my [portfolio](https://mahbub045.github.io/aboutme).
 
 
 ## ⚡ Tech Stack
@@ -57,18 +57,18 @@
 <!--   ![Dart](https://img.shields.io/badge/-Dart-333333?style=for-the-badge&logo=dart&logoColor=42bff5) -->
    
 ## 📫 Get in touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/mahbub099)
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahbubrmn99@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/mahbub045)
+[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahbubrmn45@gmail.com)
 
-<p> <img src="https://komarev.com/ghpvc/?username=mahbub099&label=Profile%20Views&color=blueviolet&style=flat"/> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=mahbub045&label=Profile%20Views&color=blueviolet&style=flat"/> </p>
  
 
 ## GitHub Analytics 
 
 <p align="center">
-<a href="https://github.com/mahbub099">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahbub099&count_private=true&show_icons=true&theme=merko" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahbub099&theme=merko&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,java,ruby,swift,kotlin,shell" />
-  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mahbub099&theme=merko"/>
+<a href="https://github.com/mahbub045">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahbub045&count_private=true&show_icons=true&theme=merko" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahbub045&theme=merko&layout=compact&langs_count=10&exclude_repo=gamebase&hide=objective-c,java,ruby,swift,kotlin,shell" />
+  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mahbub045&theme=merko"/>
 </a>
 </p>
